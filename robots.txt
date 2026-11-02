@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://trunksb.github.io/scubasharks-v1.1/sitemap.xml
+Sitemap: https://scubasharksug.com/sitemap.xml
