@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://scubasharksug.com/sitemap.xml
+Sitemap: https://www.scubasharksug.com/sitemap.xml
